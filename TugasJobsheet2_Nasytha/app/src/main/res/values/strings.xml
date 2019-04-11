@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TugasJobsheet2_Nasytha</string>
+    <string name="click_here"><u>Create it !</u></string>
+    <string name="login_me">Login Me</string>
+    <string name="don_t_have_account">Don\'t have account ?</string>
+    <string name="insight">Insight</string>
+    <string name="create_it">Create it!</string>
+    <string name="control_your_mind">Control Your Mind.</string>
+    <string name="e_mail_address">E-mail Address</string>
+    <string name="password">Password</string>
+</resources>
